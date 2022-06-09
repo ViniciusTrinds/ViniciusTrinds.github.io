@@ -1,2 +1,0 @@
-# ViniciusTrinds.github.io
-MyProjects
